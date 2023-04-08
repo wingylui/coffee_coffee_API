@@ -1,0 +1,139 @@
+{
+  "origin_country": {
+    "all": [
+      1, 
+      1, 
+      1, 
+      1, 
+      2, 
+      3, 
+      3, 
+      6, 
+      7, 
+      9, 
+      9
+    ], 
+    "coffee_origin_country": [
+      "South America", 
+      "China", 
+      "Dominican Republic", 
+      "East Timor", 
+      "India", 
+      "Bolivia", 
+      "United States of America", 
+      "Papua New Guinea", 
+      "Democratic Republic of the Congo", 
+      "Taiwan", 
+      "Mexico"
+    ]
+  }, 
+  "price": {
+    "PriceRangeUSD_kg": [
+      "< $50", 
+      "$50 - $100", 
+      "$100 - $150", 
+      "$150 - $200", 
+      "$200 - $300", 
+      "$300 - $400", 
+      "$400 - $500", 
+      "$500 - $1000", 
+      "> $1000"
+    ], 
+    "all": [
+      338, 
+      690, 
+      135, 
+      79, 
+      130, 
+      42, 
+      15, 
+      22, 
+      15
+    ]
+  }, 
+  "rating": {
+    "all": [
+      952, 
+      453, 
+      128, 
+      31, 
+      3
+    ], 
+    "coffee_rating": [
+      94, 
+      95, 
+      96, 
+      97, 
+      98
+    ]
+  }, 
+  "roast_level": {
+    "all": [
+      3, 
+      292, 
+      218, 
+      40, 
+      1000
+    ], 
+    "roast_level": [
+      "Dark", 
+      "Light", 
+      "Medium", 
+      "Medium-Dark", 
+      "Medium-Light"
+    ]
+  }, 
+  "roaster": {
+    "all": [
+      1, 
+      1, 
+      1, 
+      1, 
+      1, 
+      1, 
+      1, 
+      2, 
+      4, 
+      4
+    ], 
+    "roaster_country": [
+      "Israel", 
+      "Spain", 
+      "Peru", 
+      "Kenya", 
+      "Colombia", 
+      "Democratic Republic of the Congo", 
+      "Germany", 
+      "Indonesia", 
+      "Antigua and Barbuda", 
+      "Australia"
+    ]
+  }, 
+  "species": {
+    "all": [
+      1, 
+      1, 
+      2, 
+      2, 
+      2, 
+      3, 
+      3, 
+      3, 
+      3, 
+      4
+    ], 
+    "species": [
+      "Parainema", 
+      "Oro Azteca", 
+      "Venecia", 
+      "KP423", 
+      "Mibirizi", 
+      "S795", 
+      "Mundo Novo", 
+      "K7", 
+      "Villa Sarchi", 
+      "Catimor"
+    ]
+  }, 
+  "total_number": "1567"
+}
