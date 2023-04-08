@@ -91,24 +91,24 @@
   }, 
   "species": {
     "low_price": [
-      1, 
-      1, 
-      1, 
-      2, 
-      2, 
+      5, 
       3, 
       3, 
-      5
+      2, 
+      2, 
+      1, 
+      1, 
+      1
     ], 
     "species": [
-      "Catimor", 
-      "Catuai", 
-      "Mundo Novo", 
-      "Java", 
-      "Landrace", 
+      "Bourbon", 
       "Heirloom", 
       "Typica", 
-      "Bourbon"
+      "Java", 
+      "Landrace", 
+      "Catimor", 
+      "Catuai", 
+      "Mundo Novo"
     ]
   }, 
   "total_number": "34"

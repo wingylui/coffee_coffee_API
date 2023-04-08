@@ -87,28 +87,28 @@
   }, 
   "species": {
     "high_rated": [
-      1, 
-      2, 
-      2, 
-      2, 
-      2, 
-      2, 
-      2, 
-      2, 
+      14, 
+      5, 
       4, 
-      5
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2
     ], 
     "species": [
-      "Java", 
+      "Geisha", 
+      "Heirloom", 
+      "Bourbon", 
       "Batian", 
       "K7", 
       "Landrace", 
       "Robusta", 
       "Ruiru 11", 
       "SL28", 
-      "SL34", 
-      "Bourbon", 
-      "Heirloom"
+      "SL34"
     ]
   }, 
   "total_number": "34"

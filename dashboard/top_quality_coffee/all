@@ -111,28 +111,28 @@
   }, 
   "species": {
     "all": [
-      1, 
-      1, 
-      2, 
-      2, 
-      2, 
-      3, 
-      3, 
-      3, 
-      3, 
-      4
+      255, 
+      188, 
+      162, 
+      104, 
+      100, 
+      91, 
+      89, 
+      71, 
+      61, 
+      50
     ], 
     "species": [
-      "Parainema", 
-      "Oro Azteca", 
-      "Venecia", 
-      "KP423", 
-      "Mibirizi", 
-      "S795", 
-      "Mundo Novo", 
-      "K7", 
-      "Villa Sarchi", 
-      "Catimor"
+      "Geisha", 
+      "Bourbon", 
+      "Typica", 
+      "SL28", 
+      "Landrace", 
+      "Heirloom", 
+      "SL34", 
+      "Caturra", 
+      "Robusta", 
+      "Ruiru 11"
     ]
   }, 
   "total_number": "1567"
