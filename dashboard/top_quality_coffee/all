@@ -1,30 +1,30 @@
 {
   "origin_country": {
     "all": [
-      1, 
-      1, 
-      1, 
-      1, 
-      2, 
-      3, 
-      3, 
-      6, 
-      7, 
-      9, 
-      9
+      511, 
+      276, 
+      192, 
+      175, 
+      78, 
+      72, 
+      69, 
+      56, 
+      44, 
+      21, 
+      20
     ], 
     "coffee_origin_country": [
-      "South America", 
-      "China", 
-      "Dominican Republic", 
-      "East Timor", 
-      "India", 
-      "Bolivia", 
-      "United States of America", 
-      "Papua New Guinea", 
-      "Democratic Republic of the Congo", 
-      "Taiwan", 
-      "Mexico"
+      "Ethiopia", 
+      "Kenya", 
+      "Panama", 
+      "Colombia", 
+      "Hawaii", 
+      "Indonesia", 
+      "Guatemala", 
+      "Costa Rica", 
+      "El Salvador", 
+      "Not disclosed", 
+      "Yemen"
     ]
   }, 
   "price": {
@@ -85,28 +85,28 @@
   }, 
   "roaster": {
     "all": [
-      1, 
-      1, 
-      1, 
-      1, 
-      1, 
-      1, 
-      1, 
-      2, 
-      4, 
+      1061, 
+      339, 
+      65, 
+      26, 
+      22, 
+      10, 
+      10, 
+      10, 
+      7, 
       4
     ], 
     "roaster_country": [
-      "Israel", 
-      "Spain", 
-      "Peru", 
-      "Kenya", 
-      "Colombia", 
-      "Democratic Republic of the Congo", 
-      "Germany", 
-      "Indonesia", 
-      "Antigua and Barbuda", 
-      "Australia"
+      "United States of America", 
+      "Taiwan", 
+      "China", 
+      "United Kingdom", 
+      "Canada", 
+      "Japan", 
+      "South Korea", 
+      "Mexico", 
+      "Greece", 
+      "Antigua and Barbuda"
     ]
   }, 
   "species": {
